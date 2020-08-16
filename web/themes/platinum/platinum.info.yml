@@ -1,0 +1,38 @@
+name: Platinum
+type: theme
+description: A Starter Theme for uikitty - customize to your hearts content!
+# core: 8.x
+base theme: uikitty
+libraries:
+  - platinum/default
+
+stylesheets-remove:
+  - '@classy/css/components/tabs.css'
+  - core/assets/vendor/normalize-css/normalize.css
+
+regions:
+  branding: 'Branding'
+  mainmenu: 'Main Menu'
+  accountmenu: 'Account Menu'
+  pagetitle: 'Page Title'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  language: 'Language'
+  breadcrumb: 'breadcrumb'
+  commerce: 'Commerce'
+  front: 'Front page'
+  tabs: 'Tabs'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  search: 'Search'
+  footer: 'Footer'
+  copyright: 'Copyright'
+  offcanvas: 'Off-canvas'
+
+
+
+# Information added by Drupal.org packaging script on 2017-01-16
+version: '8.x-2.0'
+core: '8.x'
+project: 'platinum'
+datestamp: 1484550485

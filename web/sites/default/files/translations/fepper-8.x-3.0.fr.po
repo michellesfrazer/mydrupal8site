@@ -1,0 +1,22 @@
+# French translation of Fepper (8.x-3.0)
+# Copyright (c) 2020 by the French translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Fepper (8.x-3.0)\n"
+"POT-Creation-Date: 2020-06-22 04:48+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid "Home"
+msgstr "Accueil"
+msgid "Search"
+msgstr "Rechercher"
+msgid "Skip to main content"
+msgstr "Aller au contenu principal"
+msgid "Submitted by @author_name on @date"
+msgstr "Soumis par @author_name le @date"
